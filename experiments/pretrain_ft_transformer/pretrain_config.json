@@ -1,0 +1,15 @@
+{
+  "epochs": 150,
+  "batch_size": 256,
+  "mask_rate": 0.3,
+  "lr": 0.001,
+  "patience": 15,
+  "seed": 42,
+  "features": "data/processed/features.parquet",
+  "schema": "data/processed/feature_schema_perhead.json",
+  "out_dir": "experiments/pretrain_ft_transformer",
+  "device": "mps",
+  "best_epoch": 125,
+  "best_val_loss": 1.6669068119742654,
+  "embedding_dim": 32
+}

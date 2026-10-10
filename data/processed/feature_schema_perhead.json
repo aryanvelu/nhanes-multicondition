@@ -1,0 +1,437 @@
+{
+  "n_rows": 29400,
+  "continuous": {
+    "RIDAGEYR": {
+      "group": "demographic",
+      "mean": 32.522074829931974,
+      "std": 24.91250244371299,
+      "n_missing": 0
+    },
+    "INDFMPIR": {
+      "group": "demographic",
+      "mean": 2.2955324320218744,
+      "std": 1.6055094390371152,
+      "n_missing": 3068
+    },
+    "BMXBMI": {
+      "group": "adiposity",
+      "mean": 26.071877905175086,
+      "std": 8.061949681564636,
+      "n_missing": 3584
+    },
+    "BMXWAIST": {
+      "group": "adiposity",
+      "mean": 88.34556256358088,
+      "std": 22.743937171719217,
+      "n_missing": 4825
+    },
+    "BMXWT": {
+      "group": "adiposity",
+      "mean": 63.33915237134208,
+      "std": 32.537192923497834,
+      "n_missing": 1652
+    },
+    "BMXHT": {
+      "group": "adiposity",
+      "mean": 155.8314149775646,
+      "std": 22.842676812921482,
+      "n_missing": 3548
+    },
+    "BPXSY1": {
+      "group": "hemodynamic",
+      "mean": 119.94102526795673,
+      "std": 18.910014430198604,
+      "n_missing": 8781
+    },
+    "BPXDI1": {
+      "group": "hemodynamic",
+      "mean": 66.54706823803288,
+      "std": 15.20343172790625,
+      "n_missing": 8781
+    },
+    "LBXGLU": {
+      "group": "glycemic",
+      "mean": 109.05157719977863,
+      "std": 35.54516829239507,
+      "n_missing": 20365
+    },
+    "LBXGH": {
+      "group": "glycemic",
+      "mean": 5.717471336909646,
+      "std": 1.0506775031493747,
+      "n_missing": 10386
+    },
+    "LBXTC": {
+      "group": "lipid",
+      "mean": 179.88898140438525,
+      "std": 40.972265053634075,
+      "n_missing": 7782
+    },
+    "LBDHDD": {
+      "group": "lipid",
+      "mean": 53.629660468128414,
+      "std": 15.574535352117337,
+      "n_missing": 7782
+    },
+    "LBXTR": {
+      "group": "lipid",
+      "mean": 108.90646903366655,
+      "std": 102.91073132492448,
+      "n_missing": 20697
+    },
+    "LBDLDL": {
+      "group": "lipid",
+      "mean": 106.8953785415699,
+      "std": 35.46614266363473,
+      "n_missing": 20788
+    },
+    "DR1TKCAL": {
+      "group": "lifestyle",
+      "mean": 1965.096212307945,
+      "std": 967.2233659449557,
+      "n_missing": 5058
+    },
+    "DR1TPROT": {
+      "group": "lifestyle",
+      "mean": 73.58240900501191,
+      "std": 42.42203927421906,
+      "n_missing": 5058
+    },
+    "DR1TCARB": {
+      "group": "lifestyle",
+      "mean": 240.16546791553694,
+      "std": 121.87079702363859,
+      "n_missing": 5058
+    },
+    "DR1TSUGR": {
+      "group": "lifestyle",
+      "mean": 106.24416687207297,
+      "std": 70.90553854324584,
+      "n_missing": 5058
+    },
+    "DR1TFIBE": {
+      "group": "lifestyle",
+      "mean": 15.358257333004683,
+      "std": 10.182764890565519,
+      "n_missing": 5058
+    },
+    "DR1TTFAT": {
+      "group": "lifestyle",
+      "mean": 76.93325733300469,
+      "std": 45.604162139502826,
+      "n_missing": 5058
+    },
+    "DR1TSFAT": {
+      "group": "lifestyle",
+      "mean": 25.45845805603484,
+      "std": 16.28766258865237,
+      "n_missing": 5058
+    },
+    "DR1TSODI": {
+      "group": "lifestyle",
+      "mean": 3181.8761810861884,
+      "std": 1824.5421568024394,
+      "n_missing": 5058
+    },
+    "PAD680": {
+      "group": "lifestyle",
+      "mean": 391.046631339894,
+      "std": 202.64749470796,
+      "n_missing": 9585
+    },
+    "activity_min_per_week": {
+      "group": "lifestyle",
+      "mean": 915.2846196223769,
+      "std": 1532.456355682194,
+      "n_missing": 9433
+    },
+    "WHD020": {
+      "group": "weight_history",
+      "mean": 176.5891285683623,
+      "std": 47.36548431950426,
+      "n_missing": 10764
+    },
+    "WHD050": {
+      "group": "weight_history",
+      "mean": 176.7529487800937,
+      "std": 49.889427894854556,
+      "n_missing": 10833
+    },
+    "WHD120": {
+      "group": "weight_history",
+      "mean": 152.9616453585325,
+      "std": 40.50042275343792,
+      "n_missing": 15008
+    },
+    "LBXSCR": {
+      "group": "renal",
+      "mean": 0.8678921490032601,
+      "std": 0.44718295719747914,
+      "n_missing": 10689
+    },
+    "LBXSBU": {
+      "group": "renal",
+      "mean": 13.868619381046555,
+      "std": 5.9456311721916855,
+      "n_missing": 10691
+    },
+    "LBXSATSI": {
+      "group": "hepatic",
+      "mean": 23.315195895023784,
+      "std": 17.524662935124883,
+      "n_missing": 10691
+    },
+    "LBXSASSI": {
+      "group": "hepatic",
+      "mean": 24.202204505323987,
+      "std": 15.787629034128472,
+      "n_missing": 10711
+    },
+    "LBXSAPSI": {
+      "group": "hepatic",
+      "mean": 83.28246926777125,
+      "std": 51.87242612080071,
+      "n_missing": 10690
+    },
+    "LBXSGTSI": {
+      "group": "hepatic",
+      "mean": 27.32634954569749,
+      "std": 42.549882889634894,
+      "n_missing": 10690
+    },
+    "LBXSTB": {
+      "group": "hepatic",
+      "mean": 0.55359670693895,
+      "std": 0.3047356731857671,
+      "n_missing": 10694
+    },
+    "LBXSAL": {
+      "group": "hepatic",
+      "mean": 4.238340280004274,
+      "std": 0.3650152398358681,
+      "n_missing": 10686
+    },
+    "ALQ130": {
+      "group": "lifestyle",
+      "mean": 2.6423448407765133,
+      "std": 2.292104056637788,
+      "n_missing": 18943
+    },
+    "sleep_hours": {
+      "group": "lifestyle",
+      "mean": 7.447828853189121,
+      "std": 1.5975792154171253,
+      "n_missing": 10539
+    },
+    "RXDCOUNT": {
+      "group": "medication_use",
+      "mean": 1.4378744553376905,
+      "std": 2.542427434098959,
+      "n_missing": 24
+    },
+    "LBXWBCSI": {
+      "group": "hematologic",
+      "mean": 7.398028029269502,
+      "std": 3.4962179972511187,
+      "n_missing": 5211
+    },
+    "LBXHGB": {
+      "group": "hematologic",
+      "mean": 13.68014800115755,
+      "std": 1.4957711424277067,
+      "n_missing": 5211
+    },
+    "LBXHCT": {
+      "group": "hematologic",
+      "mean": 40.73676051097606,
+      "std": 4.1552173551446865,
+      "n_missing": 5211
+    },
+    "LBXPLTSI": {
+      "group": "hematologic",
+      "mean": 254.83740543222126,
+      "std": 68.08397076356106,
+      "n_missing": 5211
+    }
+  },
+  "categorical": {
+    "RIAGENDR": {
+      "group": "demographic",
+      "cardinality": 3,
+      "code_map": {
+        "1": 1,
+        "2": 2
+      },
+      "missing_index": 0,
+      "n_missing": 0
+    },
+    "RIDRETH1": {
+      "group": "demographic",
+      "cardinality": 6,
+      "code_map": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5
+      },
+      "missing_index": 0,
+      "n_missing": 0
+    },
+    "DMDEDUC2": {
+      "group": "demographic",
+      "cardinality": 6,
+      "code_map": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5
+      },
+      "missing_index": 0,
+      "n_missing": 12368
+    },
+    "smoking_status": {
+      "group": "behavioral",
+      "cardinality": 4,
+      "code_map": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "missing_index": 0,
+      "n_missing": 11452
+    },
+    "MCQ300A": {
+      "group": "family_history",
+      "cardinality": 3,
+      "code_map": {
+        "1": 1,
+        "2": 2
+      },
+      "missing_index": 0,
+      "n_missing": 12765
+    },
+    "MCQ300C": {
+      "group": "family_history",
+      "cardinality": 3,
+      "code_map": {
+        "1": 1,
+        "2": 2
+      },
+      "missing_index": 0,
+      "n_missing": 12652
+    },
+    "SLQ050": {
+      "group": "lifestyle",
+      "cardinality": 3,
+      "code_map": {
+        "1": 1,
+        "2": 2
+      },
+      "missing_index": 0,
+      "n_missing": 10459
+    },
+    "HSD010": {
+      "group": "general_health",
+      "cardinality": 6,
+      "code_map": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5
+      },
+      "missing_index": 0,
+      "n_missing": 10804
+    }
+  },
+  "missing_flags": [
+    "INDFMPIR_missing",
+    "BMXBMI_missing",
+    "BMXWAIST_missing",
+    "BMXWT_missing",
+    "BMXHT_missing",
+    "BPXSY1_missing",
+    "BPXDI1_missing",
+    "LBXGLU_missing",
+    "LBXGH_missing",
+    "LBXTC_missing",
+    "LBDHDD_missing",
+    "LBXTR_missing",
+    "LBDLDL_missing",
+    "DR1TKCAL_missing",
+    "DR1TPROT_missing",
+    "DR1TCARB_missing",
+    "DR1TSUGR_missing",
+    "DR1TFIBE_missing",
+    "DR1TTFAT_missing",
+    "DR1TSFAT_missing",
+    "DR1TSODI_missing",
+    "PAD680_missing",
+    "activity_min_per_week_missing",
+    "WHD020_missing",
+    "WHD050_missing",
+    "WHD120_missing",
+    "LBXSCR_missing",
+    "LBXSBU_missing",
+    "LBXSATSI_missing",
+    "LBXSASSI_missing",
+    "LBXSAPSI_missing",
+    "LBXSGTSI_missing",
+    "LBXSTB_missing",
+    "LBXSAL_missing",
+    "ALQ130_missing",
+    "sleep_hours_missing",
+    "RXDCOUNT_missing",
+    "LBXWBCSI_missing",
+    "LBXHGB_missing",
+    "LBXHCT_missing",
+    "LBXPLTSI_missing",
+    "DMDEDUC2_missing",
+    "smoking_status_missing",
+    "MCQ300A_missing",
+    "MCQ300C_missing",
+    "SLQ050_missing",
+    "HSD010_missing"
+  ],
+  "passthrough": [
+    "WTINT2YR",
+    "WTMEC2YR",
+    "WTSAF2YR"
+  ],
+  "head_masks": {
+    "diabetes": [
+      "LBXGLU",
+      "LBXGH",
+      "RXDCOUNT"
+    ],
+    "prediabetes": [
+      "LBXGLU",
+      "LBXGH"
+    ],
+    "obesity": [
+      "BMXBMI",
+      "BMXWAIST",
+      "BMXWT",
+      "BMXHT",
+      "WHD020",
+      "WHD050"
+    ],
+    "hypertension": [
+      "BPXSY1",
+      "BPXDI1",
+      "RXDCOUNT"
+    ],
+    "metabolic_syndrome": [
+      "BMXWAIST",
+      "LBXTR",
+      "LBDHDD",
+      "BPXSY1",
+      "BPXDI1",
+      "LBXGLU"
+    ]
+  },
+  "leakage_mode": "per-head (middle-ground)",
+  "feature_matrix": "data/processed/features.parquet"
+}

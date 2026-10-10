@@ -1,0 +1,57 @@
+{
+  "diabetes": {
+    "n_train": 12573,
+    "n_val": 2694,
+    "n_test": 2559,
+    "best_iteration": 140,
+    "prevalence": 0.17076983196561157,
+    "auroc_unweighted": 0.8610416752038684,
+    "auroc_weighted": 0.8696105441786305,
+    "auprc_unweighted": 0.5547167214940278,
+    "auprc_weighted": 0.48028210889995404
+  },
+  "prediabetes": {
+    "n_train": 12573,
+    "n_val": 2694,
+    "n_test": 2559,
+    "best_iteration": 134,
+    "prevalence": 0.34232121922626024,
+    "auroc_unweighted": 0.7473309511987997,
+    "auroc_weighted": 0.7690958634382508,
+    "auprc_unweighted": 0.5622979062566896,
+    "auprc_weighted": 0.5845223308764866
+  },
+  "obesity": {
+    "n_train": 11884,
+    "n_val": 2544,
+    "n_test": 2515,
+    "best_iteration": 243,
+    "prevalence": 0.35904572564612325,
+    "auroc_unweighted": 0.8516778920004726,
+    "auroc_weighted": 0.8585958876463562,
+    "auprc_unweighted": 0.7665164486022567,
+    "auprc_weighted": 0.7768126918995588
+  },
+  "hypertension": {
+    "n_train": 11491,
+    "n_val": 2461,
+    "n_test": 2405,
+    "best_iteration": 120,
+    "prevalence": 0.508939708939709,
+    "auroc_unweighted": 0.8263650224413784,
+    "auroc_weighted": 0.8176117220656561,
+    "auprc_unweighted": 0.8141575567233234,
+    "auprc_weighted": 0.7865892296046119
+  },
+  "metabolic_syndrome": {
+    "n_train": 4609,
+    "n_val": 1037,
+    "n_test": 996,
+    "best_iteration": 146,
+    "prevalence": 0.3473895582329317,
+    "auroc_unweighted": 0.8555580257892397,
+    "auroc_weighted": 0.8839638154791245,
+    "auprc_unweighted": 0.7710422462898339,
+    "auprc_weighted": 0.7942399318500664
+  }
+}

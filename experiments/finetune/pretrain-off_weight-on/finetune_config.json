@@ -1,0 +1,20 @@
+{
+  "epochs": 150,
+  "batch_size": 256,
+  "lr": 0.001,
+  "patience": 20,
+  "seed": 42,
+  "no_pretrain": true,
+  "no_survey_weight": false,
+  "device": "mps",
+  "best_epoch": 16,
+  "best_val_loss": 0.5298342704772949,
+  "use_survey_weight": true,
+  "final_val_auroc": {
+    "diabetes": 0.7639787299225349,
+    "prediabetes": 0.7205009655639034,
+    "obesity": 0.6352414999148831,
+    "hypertension": 0.8062095223517932,
+    "metabolic_syndrome": 0.7049155082849106
+  }
+}

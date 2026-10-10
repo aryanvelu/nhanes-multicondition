@@ -1,0 +1,15 @@
+{
+  "seed": 42,
+  "use_pretrain": false,
+  "use_weights": false,
+  "backbone": "Backbone",
+  "best_epoch": 10,
+  "best_val_loss": 0.45925357937812805,
+  "final_val_auroc": {
+    "diabetes": 0.8646551839910579,
+    "prediabetes": 0.7615436053409262,
+    "obesity": 0.8446148024427163,
+    "hypertension": 0.8288579054112082,
+    "metabolic_syndrome": 0.8825843146679484
+  }
+}

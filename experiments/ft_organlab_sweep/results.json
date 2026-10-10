@@ -1,0 +1,72 @@
+{
+  "0": {
+    "diabetes": 0.868462999827481,
+    "prediabetes": 0.7675285735856499,
+    "obesity": 0.8507248551594551,
+    "hypertension": 0.8331599183463146,
+    "metabolic_syndrome": 0.8795602018745494
+  },
+  "1": {
+    "diabetes": 0.8680601110113646,
+    "prediabetes": 0.7728818259977258,
+    "obesity": 0.8491818466517042,
+    "hypertension": 0.8340435089944573,
+    "metabolic_syndrome": 0.8766522470559962
+  },
+  "2": {
+    "diabetes": 0.8690807626788594,
+    "prediabetes": 0.7673264245192026,
+    "obesity": 0.8486833863980374,
+    "hypertension": 0.8339833917989575,
+    "metabolic_syndrome": 0.8810221901786429
+  },
+  "3": {
+    "diabetes": 0.864783281973618,
+    "prediabetes": 0.7638017583270932,
+    "obesity": 0.8493058092802338,
+    "hypertension": 0.8323192685521005,
+    "metabolic_syndrome": 0.8783024913882881
+  },
+  "4": {
+    "diabetes": 0.8692083441372962,
+    "prediabetes": 0.767288213415179,
+    "obesity": 0.8455771439010387,
+    "hypertension": 0.8370117129436946,
+    "metabolic_syndrome": 0.8730994152046784
+  },
+  "5": {
+    "diabetes": 0.8694733210125113,
+    "prediabetes": 0.7685947866495333,
+    "obesity": 0.8456945821806984,
+    "hypertension": 0.8357433061815011,
+    "metabolic_syndrome": 0.8795722182167748
+  },
+  "6": {
+    "diabetes": 0.8643287407451791,
+    "prediabetes": 0.7598829630862246,
+    "obesity": 0.8478332637402787,
+    "hypertension": 0.8349690495537454,
+    "metabolic_syndrome": 0.8802211006969478
+  },
+  "7": {
+    "diabetes": 0.8630508600643176,
+    "prediabetes": 0.7673652519313556,
+    "obesity": 0.8460599457174174,
+    "hypertension": 0.8345865456395214,
+    "metabolic_syndrome": 0.8797164143234799
+  },
+  "8": {
+    "diabetes": 0.8610952997337835,
+    "prediabetes": 0.7723234508324782,
+    "obesity": 0.8460514640638864,
+    "hypertension": 0.8352920969009916,
+    "metabolic_syndrome": 0.8815148602098855
+  },
+  "9": {
+    "diabetes": 0.8644991937058436,
+    "prediabetes": 0.7615602456604204,
+    "obesity": 0.8496946604728848,
+    "hypertension": 0.8358457036024073,
+    "metabolic_syndrome": 0.8785147801009373
+  }
+}

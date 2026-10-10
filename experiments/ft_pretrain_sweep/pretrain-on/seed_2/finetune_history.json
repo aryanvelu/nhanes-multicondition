@@ -1,0 +1,458 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 0.6133066573921515,
+    "val_loss": 0.5370692014694214,
+    "val_auroc": {
+      "diabetes": 0.7876992879198437,
+      "prediabetes": 0.6465833418075702,
+      "obesity": 0.7308921394644814,
+      "hypertension": 0.8208315991834632,
+      "metabolic_syndrome": 0.832656412721301
+    }
+  },
+  {
+    "epoch": 2,
+    "train_loss": 0.5224288227606793,
+    "val_loss": 0.4927673637866974,
+    "val_auroc": {
+      "diabetes": 0.8330821304347377,
+      "prediabetes": 0.6990139069929402,
+      "obesity": 0.8089925100474973,
+      "hypertension": 0.8246500320404833,
+      "metabolic_syndrome": 0.8520908435472242
+    }
+  },
+  {
+    "epoch": 3,
+    "train_loss": 0.49599355945781787,
+    "val_loss": 0.4751671254634857,
+    "val_auroc": {
+      "diabetes": 0.84359029719765,
+      "prediabetes": 0.7113200395669819,
+      "obesity": 0.830263844668302,
+      "hypertension": 0.8296714694360214,
+      "metabolic_syndrome": 0.8599375150204278
+    }
+  },
+  {
+    "epoch": 4,
+    "train_loss": 0.48409801599930746,
+    "val_loss": 0.4679790437221527,
+    "val_auroc": {
+      "diabetes": 0.8501325917424322,
+      "prediabetes": 0.7144909448928086,
+      "obesity": 0.8403126467978496,
+      "hypertension": 0.8304807393754418,
+      "metabolic_syndrome": 0.8628935352078827
+    }
+  },
+  {
+    "epoch": 5,
+    "train_loss": 0.47499645607812063,
+    "val_loss": 0.46395382285118103,
+    "val_auroc": {
+      "diabetes": 0.858453795367605,
+      "prediabetes": 0.731415382434602,
+      "obesity": 0.8437281434312855,
+      "hypertension": 0.8296575962370599,
+      "metabolic_syndrome": 0.8707241848914524
+    }
+  },
+  {
+    "epoch": 6,
+    "train_loss": 0.4695129704718687,
+    "val_loss": 0.4588707387447357,
+    "val_auroc": {
+      "diabetes": 0.8594527530219244,
+      "prediabetes": 0.737468144573561,
+      "obesity": 0.8447739965551438,
+      "hypertension": 0.8311545804678572,
+      "metabolic_syndrome": 0.8732956821276937
+    }
+  },
+  {
+    "epoch": 7,
+    "train_loss": 0.46543517769599446,
+    "val_loss": 0.4579715132713318,
+    "val_auroc": {
+      "diabetes": 0.8633958981786326,
+      "prediabetes": 0.7449858711361332,
+      "obesity": 0.8508781773578997,
+      "hypertension": 0.831350126510362,
+      "metabolic_syndrome": 0.8768765521108708
+    }
+  },
+  {
+    "epoch": 8,
+    "train_loss": 0.461253751905597,
+    "val_loss": 0.4532310664653778,
+    "val_auroc": {
+      "diabetes": 0.8623814448006165,
+      "prediabetes": 0.7486039080098486,
+      "obesity": 0.8510478104285192,
+      "hypertension": 0.8333498490463828,
+      "metabolic_syndrome": 0.8800208283265241
+    }
+  },
+  {
+    "epoch": 9,
+    "train_loss": 0.45698000399433836,
+    "val_loss": 0.449187308549881,
+    "val_auroc": {
+      "diabetes": 0.8665239682688901,
+      "prediabetes": 0.7560103909550618,
+      "obesity": 0.8518219244219427,
+      "hypertension": 0.8327097000085881,
+      "metabolic_syndrome": 0.8796603380597613
+    }
+  },
+  {
+    "epoch": 10,
+    "train_loss": 0.45448550034542473,
+    "val_loss": 0.4535016417503357,
+    "val_auroc": {
+      "diabetes": 0.866644834913725,
+      "prediabetes": 0.7550039597797314,
+      "obesity": 0.8479663604572264,
+      "hypertension": 0.833068421296021,
+      "metabolic_syndrome": 0.8803092205399343
+    }
+  },
+  {
+    "epoch": 11,
+    "train_loss": 0.45255929049180477,
+    "val_loss": 0.45095589756965637,
+    "val_auroc": {
+      "diabetes": 0.869022911977058,
+      "prediabetes": 0.7618283396967148,
+      "obesity": 0.8481399081371679,
+      "hypertension": 0.8331014527221198,
+      "metabolic_syndrome": 0.8782864695986542
+    }
+  },
+  {
+    "epoch": 12,
+    "train_loss": 0.4499284685874472,
+    "val_loss": 0.45214125514030457,
+    "val_auroc": {
+      "diabetes": 0.8685136191915571,
+      "prediabetes": 0.7607473352377254,
+      "obesity": 0.8506713554987212,
+      "hypertension": 0.8354625390596614,
+      "metabolic_syndrome": 0.8800088119842987
+    }
+  },
+  {
+    "epoch": 13,
+    "train_loss": 0.44913734830155666,
+    "val_loss": 0.44755876064300537,
+    "val_auroc": {
+      "diabetes": 0.8676386273268121,
+      "prediabetes": 0.7679661523575326,
+      "obesity": 0.8524381491727125,
+      "hypertension": 0.8340428483659353,
+      "metabolic_syndrome": 0.8822078026115517
+    }
+  },
+  {
+    "epoch": 14,
+    "train_loss": 0.44619297494693677,
+    "val_loss": 0.4507908523082733,
+    "val_auroc": {
+      "diabetes": 0.8680632101561039,
+      "prediabetes": 0.7646467167725176,
+      "obesity": 0.852673678166919,
+      "hypertension": 0.8346730879759002,
+      "metabolic_syndrome": 0.8811784026275735
+    }
+  },
+  {
+    "epoch": 15,
+    "train_loss": 0.4445254808785964,
+    "val_loss": 0.44744521379470825,
+    "val_auroc": {
+      "diabetes": 0.8691334481394285,
+      "prediabetes": 0.7667224425523785,
+      "obesity": 0.849249699879952,
+      "hypertension": 0.8357340573821934,
+      "metabolic_syndrome": 0.8840903628935352
+    }
+  },
+  {
+    "epoch": 16,
+    "train_loss": 0.44311332763457784,
+    "val_loss": 0.448842316865921,
+    "val_auroc": {
+      "diabetes": 0.867131400637804,
+      "prediabetes": 0.767440441523144,
+      "obesity": 0.8497540320476017,
+      "hypertension": 0.8355662577376116,
+      "metabolic_syndrome": 0.8834414804133621
+    }
+  },
+  {
+    "epoch": 17,
+    "train_loss": 0.44254763211522785,
+    "val_loss": 0.44715258479118347,
+    "val_auroc": {
+      "diabetes": 0.8703245527675879,
+      "prediabetes": 0.7688345305118747,
+      "obesity": 0.853759329818884,
+      "hypertension": 0.8347946436239438,
+      "metabolic_syndrome": 0.881983497556677
+    }
+  },
+  {
+    "epoch": 18,
+    "train_loss": 0.43856536368934473,
+    "val_loss": 0.4454421103000641,
+    "val_auroc": {
+      "diabetes": 0.871989826540869,
+      "prediabetes": 0.7684271508383331,
+      "obesity": 0.8529653165614072,
+      "hypertension": 0.8352887937583817,
+      "metabolic_syndrome": 0.8830529520147401
+    }
+  },
+  {
+    "epoch": 19,
+    "train_loss": 0.43991722987622633,
+    "val_loss": 0.445982426404953,
+    "val_auroc": {
+      "diabetes": 0.8710301247199148,
+      "prediabetes": 0.767334436524885,
+      "obesity": 0.8522893940184769,
+      "hypertension": 0.8335956028565578,
+      "metabolic_syndrome": 0.8851798445886405
+    }
+  },
+  {
+    "epoch": 20,
+    "train_loss": 0.4382774531841278,
+    "val_loss": 0.44596269726753235,
+    "val_auroc": {
+      "diabetes": 0.8702646359692937,
+      "prediabetes": 0.7713219501221831,
+      "obesity": 0.853019468657028,
+      "hypertension": 0.8360670141572693,
+      "metabolic_syndrome": 0.883549627493391
+    }
+  },
+  {
+    "epoch": 21,
+    "train_loss": 0.43612515014045095,
+    "val_loss": 0.448475182056427,
+    "val_auroc": {
+      "diabetes": 0.8678638318445386,
+      "prediabetes": 0.7690200392588279,
+      "obesity": 0.8518189884649512,
+      "hypertension": 0.8345819212398676,
+      "metabolic_syndrome": 0.8808299287030361
+    }
+  },
+  {
+    "epoch": 22,
+    "train_loss": 0.43507296941718276,
+    "val_loss": 0.44754764437675476,
+    "val_auroc": {
+      "diabetes": 0.8702770325482511,
+      "prediabetes": 0.7709145704486415,
+      "obesity": 0.8516937209666475,
+      "hypertension": 0.8342073448679074,
+      "metabolic_syndrome": 0.8832732516222062
+    }
+  },
+  {
+    "epoch": 23,
+    "train_loss": 0.433582424509282,
+    "val_loss": 0.447722464799881,
+    "val_auroc": {
+      "diabetes": 0.8708658700487288,
+      "prediabetes": 0.7688912308597806,
+      "obesity": 0.8524531551751136,
+      "hypertension": 0.8368485376987667,
+      "metabolic_syndrome": 0.879287831450773
+    }
+  },
+  {
+    "epoch": 24,
+    "train_loss": 0.43386042482998904,
+    "val_loss": 0.44823500514030457,
+    "val_auroc": {
+      "diabetes": 0.871090041518209,
+      "prediabetes": 0.7702440272038409,
+      "obesity": 0.8498290620596064,
+      "hypertension": 0.8348785434462348,
+      "metabolic_syndrome": 0.8812024353120244
+    }
+  },
+  {
+    "epoch": 25,
+    "train_loss": 0.43311731547725446,
+    "val_loss": 0.4464266300201416,
+    "val_auroc": {
+      "diabetes": 0.870203686122753,
+      "prediabetes": 0.7704652818222999,
+      "obesity": 0.8521021452059084,
+      "hypertension": 0.8343553256568299,
+      "metabolic_syndrome": 0.8826363854842586
+    }
+  },
+  {
+    "epoch": 26,
+    "train_loss": 0.43177691102027893,
+    "val_loss": 0.4501514732837677,
+    "val_auroc": {
+      "diabetes": 0.8693390247404724,
+      "prediabetes": 0.7724069605840136,
+      "obesity": 0.8501376637611566,
+      "hypertension": 0.8347384901995759,
+      "metabolic_syndrome": 0.8783465513097813
+    }
+  },
+  {
+    "epoch": 27,
+    "train_loss": 0.4295734306987451,
+    "val_loss": 0.4519810676574707,
+    "val_auroc": {
+      "diabetes": 0.8683782898712719,
+      "prediabetes": 0.770759877108159,
+      "obesity": 0.8519018476956,
+      "hypertension": 0.8359196939968686,
+      "metabolic_syndrome": 0.8795561964271409
+    }
+  },
+  {
+    "epoch": 28,
+    "train_loss": 0.42881614091444986,
+    "val_loss": 0.44870713353157043,
+    "val_auroc": {
+      "diabetes": 0.8653834830048067,
+      "prediabetes": 0.7719425724085014,
+      "obesity": 0.8539752857664805,
+      "hypertension": 0.8346446809494553,
+      "metabolic_syndrome": 0.8823079387967636
+    }
+  },
+  {
+    "epoch": 29,
+    "train_loss": 0.4276586777093459,
+    "val_loss": 0.4509390592575073,
+    "val_auroc": {
+      "diabetes": 0.8678700301340173,
+      "prediabetes": 0.7720115989189955,
+      "obesity": 0.8525921238060442,
+      "hypertension": 0.8316559975160368,
+      "metabolic_syndrome": 0.8788552431306577
+    }
+  },
+  {
+    "epoch": 30,
+    "train_loss": 0.426407054978974,
+    "val_loss": 0.45007604360580444,
+    "val_auroc": {
+      "diabetes": 0.869175803117533,
+      "prediabetes": 0.7721496519399839,
+      "obesity": 0.8504593141604467,
+      "hypertension": 0.8346569025771119,
+      "metabolic_syndrome": 0.8812565088520388
+    }
+  },
+  {
+    "epoch": 31,
+    "train_loss": 0.4257863571449202,
+    "val_loss": 0.44940412044525146,
+    "val_auroc": {
+      "diabetes": 0.8680900694105117,
+      "prediabetes": 0.7696317250772696,
+      "obesity": 0.8502766323920873,
+      "hypertension": 0.834842208877526,
+      "metabolic_syndrome": 0.8796563326123528
+    }
+  },
+  {
+    "epoch": 32,
+    "train_loss": 0.4234803051364665,
+    "val_loss": 0.45210909843444824,
+    "val_auroc": {
+      "diabetes": 0.865594224847083,
+      "prediabetes": 0.7697688536360638,
+      "obesity": 0.8529353045566053,
+      "hypertension": 0.8347583090552352,
+      "metabolic_syndrome": 0.8804253785147801
+    }
+  },
+  {
+    "epoch": 33,
+    "train_loss": 0.42293968431803647,
+    "val_loss": 0.4479268789291382,
+    "val_auroc": {
+      "diabetes": 0.8709960341277818,
+      "prediabetes": 0.7702132117973702,
+      "obesity": 0.8517791899368443,
+      "hypertension": 0.8318019964193935,
+      "metabolic_syndrome": 0.8807658415445005
+    }
+  },
+  {
+    "epoch": 34,
+    "train_loss": 0.4231887940241366,
+    "val_loss": 0.4483947455883026,
+    "val_auroc": {
+      "diabetes": 0.8689846891919394,
+      "prediabetes": 0.7671150308308142,
+      "obesity": 0.8499510673834751,
+      "hypertension": 0.8342555707500116,
+      "metabolic_syndrome": 0.8805535528318513
+    }
+  },
+  {
+    "epoch": 35,
+    "train_loss": 0.42035022377967834,
+    "val_loss": 0.4565054476261139,
+    "val_auroc": {
+      "diabetes": 0.8660312042553323,
+      "prediabetes": 0.7657132379904658,
+      "obesity": 0.848463515841119,
+      "hypertension": 0.8320741753704475,
+      "metabolic_syndrome": 0.877905952094849
+    }
+  },
+  {
+    "epoch": 36,
+    "train_loss": 0.4199342606019001,
+    "val_loss": 0.4536806643009186,
+    "val_auroc": {
+      "diabetes": 0.8654310032241436,
+      "prediabetes": 0.7658096902127187,
+      "obesity": 0.8453357429928493,
+      "hypertension": 0.8327348038924233,
+      "metabolic_syndrome": 0.8731875350476648
+    }
+  },
+  {
+    "epoch": 37,
+    "train_loss": 0.42020762331631717,
+    "val_loss": 0.45345813035964966,
+    "val_auroc": {
+      "diabetes": 0.8655632333996894,
+      "prediabetes": 0.766560353514343,
+      "obesity": 0.8520264627590166,
+      "hypertension": 0.8330340686128783,
+      "metabolic_syndrome": 0.876027397260274
+    }
+  },
+  {
+    "epoch": 38,
+    "train_loss": 0.4173000692104807,
+    "val_loss": 0.4529220759868622,
+    "val_auroc": {
+      "diabetes": 0.8661417404177028,
+      "prediabetes": 0.769028359418575,
+      "obesity": 0.8493514797223237,
+      "hypertension": 0.8285946449452009,
+      "metabolic_syndrome": 0.8783785948890491
+    }
+  }
+]

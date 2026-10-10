@@ -1,0 +1,21 @@
+# Environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Data (public NHANES, re-downloadable with src/data/download.py)
+data/raw/
+data/processed/*.parquet
+data/splits/
+
+# Model checkpoints and scratch
+models/
+*.pt
+*.pth
+
+# OS/editor junk
+.DS_Store
+.vscode/
+.idea/
+.env

@@ -1,0 +1,290 @@
+{
+  "pretrain-on_weight-on": {
+    "0": {
+      "diabetes": 0.7989999562344086,
+      "prediabetes": 0.7020072452532314,
+      "obesity": 0.7394044910781993,
+      "hypertension": 0.8291847231655713,
+      "metabolic_syndrome": 0.8452867379832865
+    },
+    "1": {
+      "diabetes": 0.7898595124513108,
+      "prediabetes": 0.6706891448063939,
+      "obesity": 0.7386183202562793,
+      "hypertension": 0.8194334165606395,
+      "metabolic_syndrome": 0.8325154507935856
+    },
+    "2": {
+      "diabetes": 0.8007899689264301,
+      "prediabetes": 0.7000845749404452,
+      "obesity": 0.730588699568225,
+      "hypertension": 0.8269398180478892,
+      "metabolic_syndrome": 0.833767940373283
+    },
+    "3": {
+      "diabetes": 0.810637227012123,
+      "prediabetes": 0.7071198004031406,
+      "obesity": 0.734031292074841,
+      "hypertension": 0.8267803787639629,
+      "metabolic_syndrome": 0.8381413875941933
+    },
+    "4": {
+      "diabetes": 0.7960567202065736,
+      "prediabetes": 0.7063480540715786,
+      "obesity": 0.7291440333039293,
+      "hypertension": 0.826987649833067,
+      "metabolic_syndrome": 0.8369607621707081
+    },
+    "5": {
+      "diabetes": 0.7981957634907436,
+      "prediabetes": 0.6930310249073199,
+      "obesity": 0.7281381060711577,
+      "hypertension": 0.8236856622629537,
+      "metabolic_syndrome": 0.8366630392378293
+    },
+    "6": {
+      "diabetes": 0.7969779859074796,
+      "prediabetes": 0.714348138646519,
+      "obesity": 0.7193803488246128,
+      "hypertension": 0.8190204688152705,
+      "metabolic_syndrome": 0.8349485657967681
+    },
+    "7": {
+      "diabetes": 0.8061687601207931,
+      "prediabetes": 0.7001677402985496,
+      "obesity": 0.7326709689400622,
+      "hypertension": 0.8210309981855809,
+      "metabolic_syndrome": 0.838398045294951
+    },
+    "8": {
+      "diabetes": 0.8035428246312749,
+      "prediabetes": 0.7126798979462385,
+      "obesity": 0.7321680053236764,
+      "hypertension": 0.8248192755716696,
+      "metabolic_syndrome": 0.8491571361107119
+    },
+    "9": {
+      "diabetes": 0.8055757363560768,
+      "prediabetes": 0.7042935878099319,
+      "obesity": 0.73607100298683,
+      "hypertension": 0.8259672384159388,
+      "metabolic_syndrome": 0.8373098166437386
+    }
+  },
+  "pretrain-on_weight-off": {
+    "0": {
+      "diabetes": 0.7797606022145389,
+      "prediabetes": 0.6472308754915919,
+      "obesity": 0.6804138229877587,
+      "hypertension": 0.8200026148042564,
+      "metabolic_syndrome": 0.8291994332997967
+    },
+    "1": {
+      "diabetes": 0.8085003720075277,
+      "prediabetes": 0.7115289739650141,
+      "obesity": 0.743815095098813,
+      "hypertension": 0.830905073039136,
+      "metabolic_syndrome": 0.8517031805022278
+    },
+    "2": {
+      "diabetes": 0.797188060746641,
+      "prediabetes": 0.6693528607473606,
+      "obesity": 0.6868594951792872,
+      "hypertension": 0.8165284328075025,
+      "metabolic_syndrome": 0.8246514588423711
+    },
+    "3": {
+      "diabetes": 0.8099960610967657,
+      "prediabetes": 0.7230903683238656,
+      "obesity": 0.7452589875729297,
+      "hypertension": 0.8318361984572655,
+      "metabolic_syndrome": 0.8510974683284397
+    },
+    "4": {
+      "diabetes": 0.7741804892993129,
+      "prediabetes": 0.6937245394189702,
+      "obesity": 0.6977188665521458,
+      "hypertension": 0.8188705958883797,
+      "metabolic_syndrome": 0.8251955731679773
+    },
+    "5": {
+      "diabetes": 0.7999168453761653,
+      "prediabetes": 0.7143269949114077,
+      "obesity": 0.7407152916415185,
+      "hypertension": 0.8253948513866435,
+      "metabolic_syndrome": 0.8464160318666202
+    },
+    "6": {
+      "diabetes": 0.8119151822836885,
+      "prediabetes": 0.7179552598565045,
+      "obesity": 0.7425329247721187,
+      "hypertension": 0.8301317925120935,
+      "metabolic_syndrome": 0.8477095866784387
+    },
+    "7": {
+      "diabetes": 0.8128452011028929,
+      "prediabetes": 0.7165971272711895,
+      "obesity": 0.7451986319389634,
+      "hypertension": 0.8320586162583427,
+      "metabolic_syndrome": 0.8517647783504096
+    },
+    "8": {
+      "diabetes": 0.8149984682042978,
+      "prediabetes": 0.7241609461116671,
+      "obesity": 0.7459971834037482,
+      "hypertension": 0.8290810876310193,
+      "metabolic_syndrome": 0.8583660144138965
+    },
+    "9": {
+      "diabetes": 0.8109523392708653,
+      "prediabetes": 0.725621978207857,
+      "obesity": 0.74311326740641,
+      "hypertension": 0.8295609998756374,
+      "metabolic_syndrome": 0.8415806007843459
+    }
+  },
+  "pretrain-off_weight-on": {
+    "0": {
+      "diabetes": 0.7980349249420106,
+      "prediabetes": 0.7019240798951271,
+      "obesity": 0.7104012875868579,
+      "hypertension": 0.8193106483120163,
+      "metabolic_syndrome": 0.8385520399154056
+    },
+    "1": {
+      "diabetes": 0.7995667206442295,
+      "prediabetes": 0.719211197722115,
+      "obesity": 0.7128990822848477,
+      "hypertension": 0.8297794316946163,
+      "metabolic_syndrome": 0.8480997063835903
+    },
+    "2": {
+      "diabetes": 0.7956387588078253,
+      "prediabetes": 0.7074806534823732,
+      "obesity": 0.7136759676246189,
+      "hypertension": 0.8235612996214912,
+      "metabolic_syndrome": 0.8361599901443443
+    },
+    "3": {
+      "diabetes": 0.790218390301545,
+      "prediabetes": 0.7185627898453688,
+      "obesity": 0.7146958230806134,
+      "hypertension": 0.8269605451547996,
+      "metabolic_syndrome": 0.8453072705993471
+    },
+    "4": {
+      "diabetes": 0.7897238391176856,
+      "prediabetes": 0.7261350661798909,
+      "obesity": 0.6980005261773218,
+      "hypertension": 0.8209066355441185,
+      "metabolic_syndrome": 0.8334804837484344
+    },
+    "5": {
+      "diabetes": 0.7990240273097291,
+      "prediabetes": 0.7099967579606162,
+      "obesity": 0.7259807790519522,
+      "hypertension": 0.8261856702349178,
+      "metabolic_syndrome": 0.8394349424060119
+    },
+    "6": {
+      "diabetes": 0.8017856361328723,
+      "prediabetes": 0.7234991472026838,
+      "obesity": 0.7314483804571552,
+      "hypertension": 0.8233317070526373,
+      "metabolic_syndrome": 0.8375767406525265
+    },
+    "7": {
+      "diabetes": 0.7943608035362598,
+      "prediabetes": 0.7171278350224828,
+      "obesity": 0.7136543014996054,
+      "hypertension": 0.8283970931029755,
+      "metabolic_syndrome": 0.8458000533848018
+    },
+    "8": {
+      "diabetes": 0.8023852247363124,
+      "prediabetes": 0.717382969426159,
+      "obesity": 0.7112044817927171,
+      "hypertension": 0.8294812802336742,
+      "metabolic_syndrome": 0.8399174588834364
+    },
+    "9": {
+      "diabetes": 0.8046807300100661,
+      "prediabetes": 0.7181469630548468,
+      "obesity": 0.7030146865375985,
+      "hypertension": 0.8295801325897085,
+      "metabolic_syndrome": 0.8387573660760117
+    }
+  },
+  "pretrain-off_weight-off": {
+    "0": {
+      "diabetes": 0.8065517090463478,
+      "prediabetes": 0.7252315238994685,
+      "obesity": 0.7355014934150456,
+      "hypertension": 0.8310294356805985,
+      "metabolic_syndrome": 0.8495164568917726
+    },
+    "1": {
+      "diabetes": 0.8037507111908617,
+      "prediabetes": 0.7325430275009515,
+      "obesity": 0.7308154200906882,
+      "hypertension": 0.8320115816695844,
+      "metabolic_syndrome": 0.8577192370079871
+    },
+    "2": {
+      "diabetes": 0.798452886340759,
+      "prediabetes": 0.7150472914875322,
+      "obesity": 0.7357119643437485,
+      "hypertension": 0.8284911622804919,
+      "metabolic_syndrome": 0.8440034494794982
+    },
+    "3": {
+      "diabetes": 0.8079259486191955,
+      "prediabetes": 0.7300170559463232,
+      "obesity": 0.7256372162124518,
+      "hypertension": 0.8299867027637206,
+      "metabolic_syndrome": 0.8487875490216208
+    },
+    "4": {
+      "diabetes": 0.8048645454943324,
+      "prediabetes": 0.7343064150092328,
+      "obesity": 0.7321076496897101,
+      "hypertension": 0.82907949323818,
+      "metabolic_syndrome": 0.8504301583064698
+    },
+    "5": {
+      "diabetes": 0.8086568339971115,
+      "prediabetes": 0.7252146089113796,
+      "obesity": 0.7446801925189965,
+      "hypertension": 0.8279315303939107,
+      "metabolic_syndrome": 0.8479867769952569
+    },
+    "6": {
+      "diabetes": 0.8095343341065254,
+      "prediabetes": 0.7264465838771972,
+      "obesity": 0.7327808471454881,
+      "hypertension": 0.8337630222035147,
+      "metabolic_syndrome": 0.8507484138554093
+    },
+    "7": {
+      "diabetes": 0.8041052124819467,
+      "prediabetes": 0.7161143453194818,
+      "obesity": 0.7266431434452234,
+      "hypertension": 0.8315747180316264,
+      "metabolic_syndrome": 0.8482947662361662
+    },
+    "8": {
+      "diabetes": 0.7994069762352838,
+      "prediabetes": 0.7194465979730206,
+      "obesity": 0.72291192720182,
+      "hypertension": 0.8316161722454473,
+      "metabolic_syndrome": 0.8431718785290434
+    },
+    "9": {
+      "diabetes": 0.8041139656002451,
+      "prediabetes": 0.720230325754479,
+      "obesity": 0.7248990203816333,
+      "hypertension": 0.830753605719406,
+      "metabolic_syndrome": 0.8474015974375295
+    }
+  }
+}
