@@ -2,8 +2,6 @@
 
 A single multi-task model that predicts five comorbid chronic conditions — **diabetes, prediabetes, obesity, hypertension, and metabolic syndrome** — from one NHANES participant profile (demographics, body measurements, labs, questionnaire data), trained on 29,400 participants from three NHANES cycles (2013–2018).
 
-> **Research project, not a diagnostic tool.** Prospective calibration and subgroup validation are still needed before any clinical use.
-
 ## Why this is different
 
 Many published NHANES models quietly include the measurement that *defines* the label (fasting glucose or HbA1c for diabetes, blood pressure for hypertension, waist/triglycerides/HDL for metabolic syndrome). They report AUROCs of 0.89–0.97, but that is recovering a diagnostic rule from its own inputs, not prediction.
@@ -30,8 +28,6 @@ Other design choices:
 | **Mean** | 0.836 | 0.840 | 0.837 | **0.842** |
 
 Among comparable studies that also avoid label-defining inputs, the ensemble matches or exceeds published results (e.g. obesity 0.859 vs 0.75–0.81 without anthropometric inputs; hypertension 0.821 vs 0.751 without blood-pressure inputs). Pretraining, SMOTE, wider hyperparameter search, and a fourth ensemble member all failed to beat this, which suggests ~0.84 is close to the ceiling for this feature set under a non-circular labelling constraint. The intended use is low-cost risk stratification and referral triage, not replacing lab diagnosis.
-
-Full details: [`Paper.md`](Paper.md) (paper-style write-up), [`report.md`](report.md), and the per-experiment tables in [`results/`](results/).
 
 ## Repository layout
 
@@ -70,7 +66,6 @@ python -m src.training.finetune    # multi-head supervised fine-tuning
 python -m src.baselines.xgboost_baseline
 python -m src.evaluation.stacking  # logistic-regression stacking ensemble
 ```
-
 The leakage-masking step lives in `src/data/perhead_leakage.py`. The exact run order and flags used for each experiment are recorded in the module docstrings and in `results/`.
 
 ## Data
